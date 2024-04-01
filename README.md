@@ -41,7 +41,7 @@ net.core.default_qdisc = fq
 
 ### 1) 在此存储库上获取转换补丁, 使用git或直接下载
 ```
-git clone https://github.com/linke131/bbrplus-6.x_stable.git
+git clone https://github.com/linke130/bbrplus-6.x_stable.git
 ```
 
 <br/>
